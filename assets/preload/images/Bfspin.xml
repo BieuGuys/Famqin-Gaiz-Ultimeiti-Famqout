@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOYFRIEND.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF spin0000" x="120" y="60" width="668" height="671"/>
+	<SubTexture name="BF spin0001" x="925" y="65" width="668" height="671"/>
+	<SubTexture name="BF spin0002" x="1695" y="69" width="668" height="671"/>
+	<SubTexture name="BF spin0003" x="2472" y="66" width="668" height="671"/>
+	<SubTexture name="BF spin0004" x="3234" y="67" width="668" height="671"/>
+	<SubTexture name="BF spin0005" x="4009" y="71" width="668" height="671"/>
+	<SubTexture name="BF spin0006" x="4770" y="79" width="668" height="671"/>
+	<SubTexture name="BF spin0007" x="5531" y="83" width="668" height="671"/>
+	
+	
+</TextureAtlas>
